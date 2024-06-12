@@ -237,6 +237,6 @@ form button{
     background-color: var(--text-light);
 }
 
-.bottom__tracker span:nth-child(2){
+.bottom__tracker span:nth-child(1){
     background-color: var(--extra-light);
 }
